@@ -5,11 +5,14 @@
 - I'm currently working on a Tracker Application for web
 - I'm getting better with React
 - I'm currently learning TypeScript
-- My learning queue : Next.js, TailwindCss, GraphQL`
+- My learning queue : Next.js, TailwindCss, GraphQL
 
 ### Connect with me
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
 
 ### Languages and Tools
 
