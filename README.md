@@ -4,7 +4,6 @@
 
 - I'm currently working on a Tracker Application for web
 - I'm getting better with React
-- I'm currently learning TypeScript
 - My learning queue : Next.js, TailwindCss, GraphQL
 
 ---
