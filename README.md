@@ -3,8 +3,7 @@
 ## I'm a Full Stack Developer !!!
 
 - I'm currently working on a NBFC appliation for web
-- I'm getting better with React
-- I'm currently learning to build Serverless application using AWS
+- I'm currently building Serverless application using AWS
 - My learning queue : Next.js, TailwindCss, GraphQL
 
 ---
