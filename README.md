@@ -4,6 +4,7 @@
 
 - I'm currently working on a NBFC appliation for web
 - I'm currently building Serverless application using AWS
+- I'm an AWS certifed developer - associate
 - My current tech stack: React JS, Node JS, Javascript, HTML & CSS, AWS services  
 - My learning queue : Next.js, TailwindCss, GraphQL
 
