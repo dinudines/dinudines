@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer !!!
 
-- I'm currently working on a Aircraft Maintanence appliation in web
+- I'm currently working on an Aircraft Maintanence application in web
 - I'm currently building Serverless application using AWS
 - I'm an AWS certifed developer - associate
 - My current tech stack: React JS, Node JS, Python, Javascript, HTML & CSS, AWS services  
